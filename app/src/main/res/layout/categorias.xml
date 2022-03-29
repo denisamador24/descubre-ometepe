@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/cardViewCategorias"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginVertical="10dp"
+    android:animateLayoutChanges="true"
+    app:cardCornerRadius="15dp"
+    app:cardElevation="0dp"
+    app:cardUseCompatPadding="true"
+    android:backgroundTint="#B2FFFFFF">
+
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="4dp">
+
+    <ImageView
+        android:id="@+id/imageViewCategorias"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:src="@drawable/comida"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/textViewCategoria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/comida"
+        android:layout_marginLeft="4dp"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Descubre Ometepe</string>
+    <string name="Servidor1">https://descubre-ometepe.000webhostapp.com</string>
+    <string name="Servidor2">https://descubreometepe2.000webhostapp.com</string>
+
+    <string name="lugar">Lugar</string>
+    <string name="comarca">Comarca</string>
+    <string name="comida">Comida</string>
+    <string name="imagenes">Imagenes</string>
+    <string name="title_activity_info_lugar2">ActivityInfoLugar2</string>
+    <string name="tab_text_1">Detalles</string>
+    <string name="tab_text_2">Fotos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="telefono">Teléfono:</string>
+    <string name="direccion">Dirección:</string>
+    <string name="horarios">Horarios:</string>
+    <string name="descripci_n">Descripción:</string>
+    <string name="agregar_un_nuevo_lugar_turistico">Agregar un nuevo lugar turistico</string>
+    <string name="nombreLugar">Nombre del lugar</string>
+    <string name="agregar_lugar">Agregar Lugar</string>
+    <string name="agregar_imagen">Agregar imagen</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="bares">Bares</string>
+    <string name="playas">Playas</string>
+    <string name="local">Local</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="agregar_nuevo_lugar">Agregar nuevo Lugar</string>
+    <string name="mis_lugares">Mis lugares</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="nombre_usuario">Nombre usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="registrase">Registrase</string>
+    <string name="crea_tu_usuario_facil_y_rapido">Crea tu usuario fácil y rápido</string>
+    <string name="ecoturismo">Ecoturismo</string>
+    <string name="nombre">Nombre:</string>
+
+    <string name="seleccione">Select</string>
+    <string name="registroE">Registro exitoso</string>
+    <string name="registroErr">No se pudo registrar</string>
+    <string name="seleccione_1_im_mini">Seleccione una imagen mínimo</string>
+    <string name="incorectoSesion">El nombre de usuario o la contraseña es incorrecto</string>
+
+</resources>

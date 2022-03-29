@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Discover Ometepe</string>
+    <string name="Servidor1">https://descubre-ometepe.000webhostapp.com</string>
+    <string name="Servidor2">https://descubreometepe2.000webhostapp.com</string>
+
+    <string name="lugar">Place</string>
+    <string name="comarca">Region</string>
+    <string name="comida">Meal</string>
+    <string name="imagenes">Images</string>
+    <string name="title_activity_info_lugar2">ActivityInfoLugar2</string>
+    <string name="tab_text_1">Details</string>
+    <string name="tab_text_2">Photos</string>
+
+    <string name="telefono">Telephone:</string>
+    <string name="direccion">Address:</string>
+    <string name="horarios">Schedules:</string>
+    <string name="descripci_n">Description:</string>
+    <string name="agregar_un_nuevo_lugar_turistico">Add new tourist place</string>
+    <string name="nombreLugar">Name of the place</string>
+    <string name="agregar_lugar">Add place</string>
+    <string name="agregar_imagen">Add image</string>
+    <string name="restaurante">Restaurant</string>
+    <string name="bares">Bars</string>
+    <string name="playas">Beaches</string>
+    <string name="local">Local</string>
+    <string name="hoteles">Hotels</string>
+
+    <string name="comenzar">Start</string>
+    <string name="agregar_nuevo_lugar">Add new place</string>
+    <string name="mis_lugares">My Places</string>
+    <string name="iniciar">Start</string>
+    <string name="crear_cuenta">Create Account</string>
+    <string name="nombre_usuario">Username</string>
+    <string name="contrasena">Password</string>
+    <string name="registrase">Check in</string>
+    <string name="crea_tu_usuario_facil_y_rapido">Create your user quickly and easily</string>
+    <string name="ecoturismo">Ecotourism</string>
+    <string name="nombre">Name:</string>
+
+    <string name="seleccione">Seleccione</string>
+    <string name="registroE">Sucecessful registration</string>
+    <string name="registroErr">Failed to register</string>
+    <string name="seleccione_1_im_mini">Select a minimum image</string>
+    <string name="incorectoSesion">The username or password is incorrect</string>
+</resources>
